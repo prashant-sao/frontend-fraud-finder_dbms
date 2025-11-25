@@ -1,6 +1,6 @@
 
 /*const API_BASE_URL = 'https://scorbutic-nonreasoning-garth.ngrok-free.dev/api';*/
-const API_BASE_URL = 'https://fraud-finder-backend-3.onrender.com';
+const API_BASE_URL = 'https://fraud-finder-backend-dbms.onrender.com';
 
 class ApiService {
     async request(endpoint, options = {}) {
